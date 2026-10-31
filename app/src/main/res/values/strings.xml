@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Liquid TV Launcher</string>
+    <string name="title_apps">Aplicaciones</string>
+    <string name="title_settings">Opciones del Launcher</string>
+    <string name="desc_settings">Personaliza colores de hora, fecha, tiempo y estilo liquid glass</string>
+    <string name="hint_search">Buscar apps…</string>
+    <string name="open_app">Abrir</string>
+    <string name="app_info">Información</string>
+    <string name="clock_color">Color de la Hora</string>
+    <string name="date_color">Color de la Fecha</string>
+    <string name="weather_color">Color del Tiempo y Clima</string>
+    <string name="accent_color">Color de Acento y Foco</string>
+    <string name="glass_blur">Intensidad Liquid Glass</string>
+    <string name="time_format_24h">Formato 24 Horas</string>
+    <string name="reset_defaults">Restablecer valores</string>
+    <string name="close">Cerrar</string>
+    <string name="no_apps_found">No se encontraron aplicaciones</string>
+</resources>

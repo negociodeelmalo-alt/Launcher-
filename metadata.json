@@ -1,0 +1,6 @@
+{
+  "name": "Liquid TV Launcher",
+  "description": "Minimalist Android TV launcher with liquid glass aesthetic, strict D-pad remote navigation, app drawer, and customizable clock, date, and weather widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

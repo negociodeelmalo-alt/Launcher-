@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Liquid Glass Base Colors -->
+    <color name="glass_surface">#33FFFFFF</color>
+    <color name="glass_surface_focused">#55FFFFFF</color>
+    <color name="glass_border">#66FFFFFF</color>
+    <color name="glass_border_focused">#FF00E5FF</color>
+    <color name="glass_shadow">#4D000000</color>
+
+    <!-- TV Background & Overlays -->
+    <color name="tv_bg_dark">#0B0F19</color>
+    <color name="tv_overlay_gradient_start">#33000000</color>
+    <color name="tv_overlay_gradient_end">#CC0B0F19</color>
+
+    <!-- Presets for Customization (Time, Date, Weather, Accent) -->
+    <color name="preset_pure_white">#FFFFFFFF</color>
+    <color name="preset_cyan_glow">#FF00E5FF</color>
+    <color name="preset_neon_mint">#FF00E676</color>
+    <color name="preset_amber_gold">#FFFFD600</color>
+    <color name="preset_sunset_orange">#FFFF6D00</color>
+    <color name="preset_electric_purple">#FFE040FB</color>
+    <color name="preset_coral_rose">#FFFF4081</color>
+    <color name="preset_sky_blue">#FF40C4FF</color>
+    <color name="preset_emerald">#FF1DE9B6</color>
+
+    <!-- UI State Colors -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="white_40">#66FFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>
